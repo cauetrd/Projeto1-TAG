@@ -4,6 +4,8 @@
 **Departamento de Ciência da Computação**  
 **Prof. Díbio**
 
+**link para o repositório do projeto:** [link] (https://github.com/cauetrd/Projeto1-TAG)
+
 ## Informações do Projeto
 
 Este projeto consiste na implementação de algoritmos para a análise de uma rede social de relações duradouras entre golfinhos, modelada como um grafo não direcionado, baseado no artigo de David Lusseau et al. (2003). Os dados estão contidos no arquivo `soc-dolphins.mtx`.
